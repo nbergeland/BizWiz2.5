@@ -436,13 +436,11 @@ By 2026, we aim to:
 
 For questions, issues, or feature requests:
 
-- 📧 Email: support@bizwiz-analytics.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/bizwiz-dynamic-analytics/issues)
-- 📖 Docs: [Full Documentation](https://your-docs-site.com)
-- 🤝 Partnerships: partnerships@bizwiz-analytics.com
-
+- 📧 Email: contact@bbsllc.ai
+- 📖 Docs: [Full Documentation](https://github.com/nbergeland/BizWiz2.5/edit/main/README.md)
+- 🤝 Partnerships: contact@bbsllc.ai
 ---
 
-**Built with ❤️ for data-driven site selection across industries**
+**Built with ❤️ for data-driven decision making across industries**
 
 *BizWiz is transforming how businesses make location decisions through real-time market intelligence, predictive analytics, and industry-specific insights.*
