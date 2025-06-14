@@ -321,14 +321,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google Places API**: For real competitor data
 - **US Census Bureau**: For demographic data access
 
-## 🗺️ Future Roadmap
+## 🗺️ Future Roadmap - V3
 
 BizWiz is evolving from a restaurant-focused platform into a comprehensive **multi-industry location intelligence suite**. Our vision is to become the go-to solution for data-driven site selection across various retail and service sectors.
 
 ### 🎯 Planned Industry Expansions
 
 #### 🍟 Quick Service Restaurant (QSR) Enhancement
-**Timeline: Q2 2024**
+**Timeline: Q3 2024**
 - **Drive-thru optimization**: Traffic flow analysis and queue management modeling
 - **Speed of service metrics**: Integration with POS systems for performance tracking
 - **Menu-specific modeling**: Revenue predictions based on menu categories and price points
@@ -336,7 +336,7 @@ BizWiz is evolving from a restaurant-focused platform into a comprehensive **mul
 - **Peak hour analysis**: Time-based demand forecasting and staffing optimization
 
 #### 🏦 Banking & Financial Services
-**Timeline: Q3-Q4 2024**
+**Timeline: Q4 2025**
 - **ATM placement optimization**: Cash demand modeling and accessibility analysis
 - **Branch location analysis**: Population density and banking behavior patterns
 - **Competition mapping**: Existing bank locations and market saturation analysis
@@ -345,7 +345,7 @@ BizWiz is evolving from a restaurant-focused platform into a comprehensive **mul
 - **Mobile banking impact**: Digital adoption rates affecting physical location needs
 
 #### ⛽ Gas Station & Convenience Store
-**Timeline: Q1 2025**
+**Timeline: Q1 2026**
 - **Traffic flow modeling**: Vehicle count analysis and commuter pattern recognition
 - **Fuel demand forecasting**: Local consumption patterns and price sensitivity analysis
 - **Competition analysis**: Existing stations, pricing strategies, and brand loyalty factors
